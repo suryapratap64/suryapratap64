@@ -11,7 +11,7 @@
 
 ## 🌸 About Me  
 💻 I’m a **Full Stack Developer** with a deep passion for building **performant, scalable, and user-friendly** web applications.  
-🚀 I specialize in **MERN** & **PERN** stacks and love working on both **frontend elegance** and **backend robustness**.  
+🚀 I specialize in **MERN** stacks and love working on both **frontend elegance** and **backend robustness**.  
 
 - 🧠 Strong problem-solving mindset & API architecture experience  
 - 🌱 Always exploring new frameworks, tools, and libraries  
