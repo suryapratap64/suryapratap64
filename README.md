@@ -105,3 +105,8 @@
 ---
 
 <p align="center">🌸 <strong>Thanks for visiting my profile!</strong> Feel free to explore my repositories 🚀</p>
+
+## 🐍 Contribution Snake
+
+![GitHub Snake Light](https://raw.githubusercontent.com/suryapratap64/suryapratap64/output/snake.svg#gh-light-mode-only)
+![GitHub Snake Dark](https://raw.githubusercontent.com/suryapratap64/suryapratap64/output/snake-dark.svg#gh-dark-mode-only)
