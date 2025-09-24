@@ -73,8 +73,6 @@
 | **ProboSupabse-Frontend** | (Describe the frontend of this project) | (Frontend tech stack: e.g. Next.js, Supabase, Tailwind, etc.) | [Repo](https://github.com/suryapratap64/probosupabse-frontend) |
 | **SuryaFinance** | (Brief summary of what SuryaFinance does) | (Tech stack: e.g. React, Node, APIs, etc.) | [Repo](https://github.com/suryapratap64/suryafinance) |
 | **QuickMart** | Full-featured modern e-commerce platform with payments, authentication & product management. | Next.js 14, TypeScript, MongoDB, Clerk, Razorpay, Tailwind | [Repo](https://github.com/suryapratap64/QuickMart) |
-
-
 | **Discord Input** | Fun utility to generate bold, colorful text from Discord input. | JavaScript, HTML, CSS | [Repo](https://github.com/suryapratap64/discord-input) |
 | **Add-Edit Task** | Task manager with AI-powered summarization. | Next.js, Tailwind, OpenAI API | [Repo](https://github.com/suryapratap64/Add-edit-task) |
 | **Response Frontend** | Emotion analysis app from text → emojis/emotion. | Next.js, FastAPI (Python), Tailwind | [Repo](https://github.com/suryapratap64/Response-frontend) |
