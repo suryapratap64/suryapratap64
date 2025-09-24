@@ -66,7 +66,7 @@
 
 | Project | Description | Tech Stack | Link |
 |--------|-------------|------------|------|
-| **Workmate Sabse Upar** | (Add a short description of what this project does) | (List the tech stack: e.g. React, Node.js, etc.) | [Repo](https://github.com/suryapratap64/workmate) |
+| **Workmate** | (Add a short description of what this project does) | (List the tech stack: e.g. React, Node.js, etc.) | [Repo](https://github.com/suryapratap64/workmate) |
 | **Instagram Clone** | Social media app with real-time chat, file uploads, and JWT authentication. | MERN Stack, Socket.IO, Tailwind | [Repo](https://github.com/suryapratap64/instagram) |
 | **ProboPlay** | (Short description for this project) | (Tech stack used) | [Repo](https://github.com/suryapratap64/proboplay) |
 | **Netflix Clone** | Netflix-style video streaming platform with search & uploads. | MERN Stack, Tailwind, Video.js | [Repo](https://github.com/suryapratap64/Netflix) |
