@@ -65,24 +65,18 @@
 ## 💼 Highlight Projects
 
 | Project | Description | Tech Stack | Link |
-|--------|-------------|------------|------|
-| **Workmate** | A full-stack React + Node.js marketplace connecting clients and workers with role-based dashboards, real-time Socket.IO chat, video call meeting , profile management, and secure JWT auth. |react,nodejs,javascript,css ,mongodb, animation, cloudinary | [Repo](https://github.com/suryapratap64/workmate) |
-| **Instagram Clone** | Social media app with real-time chat, file uploads, and JWT authentication. | MERN Stack, Socket.IO, Tailwind | [Repo](https://github.com/suryapratap64/instagram) |
-| **ProboPlay** |A modern, real-time prediction market platform inspired by Probo, built with Next.js, Firebase, and Recharts | ascript
-firebase
-nextjs
-firebase-auth
-tailwindcss | [Repo](https://github.com/suryapratap64/proboplay) |
-| **Netflix Clone** | Netflix-style video streaming platform with search & uploads. | MERN Stack, Tailwind, Video.js | [Repo](https://github.com/suryapratap64/Netflix) |
-| **ProboSupabse-Frontend** | Next.js 13 frontend integrated with Supabase for authentication, database operations, and modular services architecture. |  Next.js, Supabase, Tailwind | [Repo](https://github.com/suryapratap64/probosupabse-frontend) |
-| **SuryaFinance** | Somani Finance is a real-time dashboard that displays profits, losses, stocks, and mutual funds. | mysql
-pgadmin
-schedu
-supabas | [Repo](https://github.com/suryapratap64/suryafinance) |
-| **QuickMart** | Full-featured modern e-commerce platform with payments, authentication & product management. | Next.js 14, TypeScript, MongoDB, Clerk, Razorpay, Tailwind | [Repo](https://github.com/suryapratap64/QuickMart) |
+|---------|-------------|------------|------|
+| **Workmate** | A full-stack React + Node.js marketplace connecting clients and workers with role-based dashboards, real-time Socket.IO chat, video call meetings, profile management, and secure JWT auth. | React, Node.js, JavaScript, CSS, Animation, MongoDB, Cloudinary | [Repo](https://github.com/suryapratap64/workmate) |
+| **Instagram Clone** | Social media app with real-time chat, file uploads, and JWT authentication. | MERN Stack, Socket.IO, Tailwind CSS | [Repo](https://github.com/suryapratap64/instagram) |
+| **ProboPlay** | A modern, real-time prediction market platform inspired by Probo. | Next.js, Firebase, Firebase Auth, Tailwind CSS, Recharts | [Repo](https://github.com/suryapratap64/proboplay) |
+| **Netflix Clone** | Netflix-style video streaming platform with search & uploads. | MERN Stack, Tailwind CSS, Video.js | [Repo](https://github.com/suryapratap64/Netflix) |
+| **ProboSupabase-Frontend** | Next.js 13 frontend integrated with Supabase for authentication, database operations, and modular services architecture. | Next.js, Supabase, Tailwind CSS | [Repo](https://github.com/suryapratap64/probosupabse-frontend) |
+| **SuryaFinance** | Real-time dashboard displaying profits, losses, stocks, and mutual funds. | MySQL, PGAdmin, Supabase, Scheduler | [Repo](https://github.com/suryapratap64/suryafinance) |
+| **QuickMart** | Full-featured modern e-commerce platform with payments, authentication & product management. | Next.js 14, TypeScript, MongoDB, Clerk, Razorpay, Tailwind CSS | [Repo](https://github.com/suryapratap64/QuickMart) |
 | **Discord Input** | Fun utility to generate bold, colorful text from Discord input. | JavaScript, HTML, CSS | [Repo](https://github.com/suryapratap64/discord-input) |
-| **Add-Edit Task** | Task manager with AI-powered summarization. | Next.js, Tailwind, OpenAI API | [Repo](https://github.com/suryapratap64/Add-edit-task) |
-| **Response Frontend** | Emotion analysis app from text → emojis/emotion. | Next.js, FastAPI (Python), Tailwind | [Repo](https://github.com/suryapratap64/Response-frontend) |
+| **Add-Edit Task** | Task manager with AI-powered summarization. | Next.js, Tailwind CSS, OpenAI API | [Repo](https://github.com/suryapratap64/Add-edit-task) |
+| **Response Frontend** | Emotion analysis app converting text to emojis/emotion. | Next.js, FastAPI (Python), Tailwind CSS | [Repo](https://github.com/suryapratap64/Response-frontend) |
+
 
 
 ---
