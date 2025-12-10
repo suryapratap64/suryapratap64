@@ -2,21 +2,36 @@
 <h1 align="center">Hey there! 👋 I'm <span style="color:#36BCF7;">Surya Pratap</span></h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&size=28&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;MERN+%26+PERN+Specialist;Crafting+Scalable+Web+Apps;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&size=28&center=true&vCenter=true&width=800&lines=Full+Stack+%2B+DevOps+Developer;MERN+%26+PERN+Specialist;CI%2FCD+%26+Cloud+Deployment+Expert;Building+Scalable+Web+Applications;Always+Learning+New+Technologies" />
+
 </p>
 
 <p align="center">📍 <strong>Profile views tracking since:</strong> August 13, 2025</p>
 
 ---
 
-## 🌸 About Me  
-💻 I’m a **Full Stack Developer** with a deep passion for building **performant, scalable, and user-friendly** web applications.  
-🚀 I specialize in **MERN** stacks and love working on both **frontend elegance** and **backend robustness**.  
+💻 I’m a **Full Stack Developer & DevOps Engineer** passionate about building **scalable, efficient, and production-ready systems**.  
+I work across **MERN / MEAN stacks**, **microservices**, **cloud infrastructure**, and modern **DevOps tooling** to deliver high-quality applications end-to-end.
 
-- 🧠 Strong problem-solving mindset & API architecture experience  
-- 🌱 Always exploring new frameworks, tools, and libraries  
+## 🚀 What I Do
+
+- 🧩 **Full Stack Development** — React, Next.js, Node.js, Express, TypeScript  
+- 🛠️ **Backend Engineering** — REST APIs, microservices, authentication, caching, queues  
+- ☁️ **DevOps + Cloud** — CI/CD pipelines, Docker, Kubernetes, AWS/GCP  
+- 🏗️ **Infrastructure as Code (IaC)** — Terraform, Ansible, automated provisioning, scalable deployments  
+- 📊 **Monitoring & Observability** — Grafana, Prometheus, logging, metrics  
+- 🔄 **Automation** — GitHub Actions, GitLab CI, Jenkins, containerized workflows  
+- 📚 **E-Learning & Emerging Web Technologies** — building modern UI/UX & learning tools  
+
+## 💡 What I Bring
+
+- 🧠 Strong problem-solving mindset with **1000+ DSA & competitive coding problems solved**  
+- 🧬 Experience architecting APIs, databases, and distributed systems  
+- ⚙️ Practical expertise in **Dockerized microservices, Kubernetes orchestration & production workflows**  
+- 📦 Hands-on experience with **IaC tools** like Terraform and Ansible for automated cloud deployments  
+- 📈 Monitoring & observability with **Grafana and Prometheus** for production readiness  
 - 🤝 Open to freelance, collaborations, and internship opportunities  
-- 🎯 Goal-oriented with a focus on delivering real-world impact
+- 🎯 Goal-driven with a passion for **impactful & meaningful tech solutions**
 
 ---
 
@@ -32,6 +47,7 @@
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Shadcn UI](https://img.shields.io/badge/Shadcn_UI-000000?style=flat-square&logo=shadcnui&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
 ### **Backend**
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
@@ -50,15 +66,32 @@
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=sql&logoColor=white)
 
 ### **DevOps & Cloud**
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=flat-square&logo=gitlab&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![AWS Lambda](https://img.shields.io/badge/Lambda-FF9900?style=flat-square&logo=aws-lambda&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazon-dynamodb&logoColor=white)
+![API Gateway](https://img.shields.io/badge/API%20Gateway-FF9900?style=flat-square&logo=aws-api-gateway&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-FC6A0C?style=flat-square&logo=apache&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Ngrok](https://img.shields.io/badge/Ngrok-0F0F0F?style=flat-square&logo=ngrok&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoftazure&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![CircleCI](https://img.shields.io/badge/CircleCI-343434?style=flat-square&logo=circleci&logoColor=white)
+![Travis CI](https://img.shields.io/badge/TravisCI-3EAAAF?style=flat-square&logo=travis&logoColor=white)
+
 
 ---
 
@@ -67,6 +100,7 @@
 | Project | Description | Tech Stack | Link |
 |---------|-------------|------------|------|
 | **Workmate** | A full-stack React + Node.js marketplace connecting clients and workers with role-based dashboards, real-time Socket.IO chat, video call meetings, profile management, and secure JWT auth. | React, Node.js, JavaScript, CSS, Animation, MongoDB, Cloudinary | [Repo](https://github.com/suryapratap64/workmate) |
+| **NestJS CI/CD Pipeline** | A complete end-to-end **NestJS application deployment pipeline** on AWS EC2 using Docker, Jenkins, GitHub Webhooks, and automated CI/CD. Includes Dockerized microservices, zero-downtime deployments, and email notifications for build status. | NestJS, Node.js, TypeScript, Docker, Jenkins, AWS EC2, GitHub Webhooks, PM2, CI/CD, Microservices | [Repo](https://github.com/suryapratap64/Nestjs-CICD-pipeline-Ubuntu-aws-ec2-Docker-jenkins-github-webhooks) |
 | **Instagram Clone** | Social media app with real-time chat, file uploads, and JWT authentication. | MERN Stack, Socket.IO, Tailwind CSS | [Repo](https://github.com/suryapratap64/instagram) |
 | **ProboPlay** | A modern, real-time prediction market platform inspired by Probo. | Next.js, Firebase, Firebase Auth, Tailwind CSS, Recharts | [Repo](https://github.com/suryapratap64/proboplay) |
 | **Netflix Clone** | Netflix-style video streaming platform with search & uploads. | MERN Stack, Tailwind CSS, Video.js | [Repo](https://github.com/suryapratap64/Netflix) |
