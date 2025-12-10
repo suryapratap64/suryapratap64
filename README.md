@@ -136,11 +136,13 @@ I work across **MERN / MEAN stacks**, **microservices**, **cloud infrastructure*
 ---
 
 ## 🌐 Connect With Me  
+<!-- Portfolio / LinkedIn / Email -->
 <p align="center">
-  <a href="[https://your-portfolio-link](https://surya-portfolio-one.vercel.app/)"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-  <a href="[https://linkedin.com/in/your-link](https://www.linkedin.com/in/surya211006/)"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://surya-portfolio-one.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/surya211006/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:sps64044@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
+
 
 ---
 
