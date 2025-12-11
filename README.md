@@ -111,14 +111,11 @@ I work across **MERN / MEAN stacks**, **microservices**, **cloud infrastructure*
 | **Add-Edit Task** | Task manager with AI-powered summarization. | Next.js, Tailwind CSS, OpenAI API | [Repo](https://github.com/suryapratap64/Add-edit-task) |
 | **Response Frontend** | Emotion analysis app converting text to emojis/emotion. | Next.js, FastAPI (Python), Tailwind CSS | [Repo](https://github.com/suryapratap64/Response-frontend) |
 
-
-
 ---
-
-## 📈 GitHub Stats  
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=suryapratap64&show_icons=true&theme=radical" height="170px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=suryapratap64&show_icons=true&theme=radical&count_private=true" height="170px"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suryapratap64&layout=compact&theme=radical" height="170px"/>
 </p>
 
@@ -128,13 +125,13 @@ I work across **MERN / MEAN stacks**, **microservices**, **cloud infrastructure*
 
 ---
 
-## 🏆 GitHub Trophies  
+## 🏆 GitHub Trophies
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=suryapratap64&theme=radical&no-frame=true&no-bg=true&margin-w=4"/>
 </p>
 
 ---
-
 ## 🌐 Connect With Me  
 <!-- Portfolio / LinkedIn / Email -->
 <p align="center">
